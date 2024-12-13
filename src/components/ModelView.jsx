@@ -18,6 +18,7 @@ const ModelView = ({index,groupRef,gsapType,size,controlRef,setRotationState,ite
       <OrbitControls
          makeDefault
          ref={controlRef}
+         enablePan={false}
          enableZoom={false}
          rotateSpeed={0.4}
          target={new THREE.Vector3(0,0,0)}
