@@ -28,7 +28,7 @@ Follow these steps to set up the project locally on your machine.
 ### Cloning the Repository
 
 ```bash
-git clone https://github.com/rekl0w/Apple.git
+git clone https://github.com/Supreetpatel/Iphone-landing-page
 cd Apple
 ```
 
