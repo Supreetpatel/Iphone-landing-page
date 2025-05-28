@@ -1,7 +1,5 @@
 # Apple iPhone 15 Pro Website
 
-![apple](./img/home.png)
-
 Welcome to the Apple iPhone 15 Pro Website repository! This project is a clone of Apple's iPhone 15 Pro website, built using React.js and TailwindCSS. It showcases the effective utilization of GSAP and Three.js for displaying iPhone 15 Pro models in various colors and shapes.
 
 ## Technologies Used
